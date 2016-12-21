@@ -7,11 +7,9 @@ Goal
 =====
 
 * [-] Android x86_64 instruction set behaviours.
-
 ** [-] X86_64 machine code translator.
 
 * [-] Android ARM    instruction set behaviours.
-
 ** [-] ARM machine code translator.
 
 
